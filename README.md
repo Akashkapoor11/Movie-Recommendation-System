@@ -33,13 +33,13 @@ cd Movie-Recommendation-System
 npm install
 ```
 
-##Setup API Key
+## Setup API Key
 const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=1a3a2a01";
 npm run dev
 
 Open in your browser at http://localhost:3000
 
-##Folder Structure
+## Folder Structure
 Movie-Recommendation-System/
 ├── components/
 │   ├── MovieCard.jsx
