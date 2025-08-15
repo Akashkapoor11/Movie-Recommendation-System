@@ -32,12 +32,11 @@ git clone https://github.com/Akashkapoor11/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
 npm install
 ```
-<img width="1900" height="982" alt="Image" src="https://github.com/user-attachments/assets/24f5b1c1-d272-440d-803b-8ebb40dec92a" />
+<img width="1900" height="982" alt="Image" src="https://github.com/user-attachments/assets/24f5b1c1-d272-440d-803b-8ebb40dec92a" />;
 ## Setup API Key
 const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=1a3a2a01";
-npm run dev
 
-Open in your browser at http://localhost:3000
+Open in your browser at http://localhost:3000;
 
 ## About This Project
 
