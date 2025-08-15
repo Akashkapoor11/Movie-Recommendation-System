@@ -36,6 +36,9 @@ npm install
 ## Setup API Key
 const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=1a3a2a01";
 
+## Video Link
+https://github.com/user-attachments/assets/076b6ab9-acf0-479d-9b11-b35224a703bf
+<img width="1900" height="982" alt="Image" src="https://github.com/user-attachments/assets/24f5b1c1-d272-440d-803b-8ebb40dec92a" />
 Open in your browser at http://localhost:3000;
 
 ## About This Project
